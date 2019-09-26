@@ -1,0 +1,1 @@
+const api = 'http://apiadvonline.azurewebsites.net/api/';
